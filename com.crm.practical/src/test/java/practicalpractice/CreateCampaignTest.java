@@ -12,5 +12,9 @@ public class CreateCampaignTest {
 	@Test
 	public void createCampaignIndustry() {
 	System.out.println("industry created");
+	}
+	@Test
+	public void welcome() {
+		System.out.println("industry created1");
 }
 }
